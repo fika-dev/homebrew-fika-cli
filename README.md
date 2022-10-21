@@ -1,2 +1,2 @@
 # homebrew-fika-cli
-for more info, please visit http://wwwfikadev.com
+for more info, please visit http://www.fikadev.com
