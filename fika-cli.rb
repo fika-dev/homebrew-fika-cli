@@ -2,8 +2,9 @@ require "language/node"
 class FikaCli < Formula
   desc "A high-level git extension that helps team-shared development workflow."
   homepage "https://fikadev.com/"
-  url "https://registry.npmjs.org/fika-cli/-/fika-cli-0.4.31.tgz"
-  sha256 "eb981b6f8b7c95d0c2f2f13bb71cf3120f562226fac23f3bb2ecedac78544f17"
+  url "https://registry.npmjs.org/fika-cli/-/fika-cli-0.4.35.tgz"
+  version "v0.4.35"
+  sha256 "6e61f6c7e0bf4cd307e860a2fb4a0ef0a2ec61cd3543d2c5d53364da67beb983"
   license "LGPL-3.0"
   livecheck do
     url :stable
