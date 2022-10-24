@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require "language/node"
+
 # FikaCli Class
 class FikaCli < Formula
   desc "High-level git extension that helps team-shared development workflow"
